@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EsatC
-- 👀 I’m interested in Java coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java coding
+- 👀 I’m interested in coding with Java, C and C++
+- 🌱 I’m currently studying on Computer Engineering at Yıldırım Beyazıt University
 - 📫 How to reach me celebiesat24@gmail.com
 
 <!---
